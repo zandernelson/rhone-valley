@@ -15,6 +15,15 @@ body {
 	margin: auto;
 }
 
+.text {
+    font: Helvetica;
+    font-style: oblique;
+    font-size: 38px;
+    position: fixed;
+    color: grey;
+    opacity: 0.5
+
+}
 
 
 
